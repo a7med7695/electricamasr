@@ -6,31 +6,12 @@ media_folder: "images/uploads"
 public_folder: "/images/uploads"
 
 collections:
-  - name: "home"
-    label: "Homepage"
-    file: "content/home.json"
-    format: "json"
-    fields:
-      - { label: "Site Title (EN)", name: "site_title_en", widget: "string" }
-      - { label: "Site Title (AR)", name: "site_title_ar", widget: "string" }
-      - { label: "Hero Subtitle (EN)", name: "hero_subtitle_en", widget: "string" }
-      - { label: "Hero Subtitle (AR)", name: "hero_subtitle_ar", widget: "string" }
-      - { label: "About Us (EN)", name: "about_en", widget: "text" }
-      - { label: "About Us (AR)", name: "about_ar", widget: "text" }
-      - label: "Services"
-        name: "services"
-        widget: "list"
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "home.json"
+        label: "Home Page"
+        name: "home"
         fields:
-          - { label: "Service Title (EN)", name: "title_en", widget: "string" }
-          - { label: "Service Title (AR)", name: "title_ar", widget: "string" }
-          - { label: "Description (EN)", name: "desc_en", widget: "text" }
-          - { label: "Description (AR)", name: "desc_ar", widget: "text" }
-          - { label: "Icon", name: "icon", widget: "string", default: "⚡" }
-      - label: "Contact"
-        name: "contact"
-        widget: "object"
-        fields:
-          - { label: "Email", name: "email", widget: "string" }
-          - { label: "Phone / WhatsApp", name: "phone", widget: "string" }
-          - { label: "Address (EN)", name: "address_en", widget: "string" }
-          - { label: "Address (AR)", name: "address_ar", widget: "string" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "content", widget: "text" }
