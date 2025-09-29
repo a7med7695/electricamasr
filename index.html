@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Electrica Masr</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header>
+    <h1>Electrica Masr</h1>
+    <div class="lang-switch">
+      <button onclick="setLanguage('en')">EN</button>
+      <button onclick="setLanguage('ar')">AR</button>
+    </div>
+  </header>
+
+  <main id="content">
+    <section id="about">
+      <h2 data-en="About Us" data-ar="من نحن">About Us</h2>
+      <p data-en="Reliable electrical solutions – transformers, panels & kiosks"
+         data-ar="حلول كهربائية موثوقة – محولات، لوحات، وأكشاك">
+         Reliable electrical solutions – transformers, panels & kiosks</p>
+    </section>
+
+    <section id="services">
+      <h2 data-en="Our Services" data-ar="خدماتنا">Our Services</h2>
+      <ul>
+        <li data-en="Transformer Supply" data-ar="توريد المحولات">Transformer Supply</li>
+        <li data-en="LV & MV Distribution Panels" data-ar="لوحات توزيع جهد منخفض ومتوسط">LV & MV Distribution Panels</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2 data-en="Contact Us" data-ar="اتصل بنا">Contact Us</h2>
+      <form>
+        <input type="text" placeholder="Full Name" data-en="Full Name" data-ar="الاسم الكامل" />
+        <input type="email" placeholder="Email Address" data-en="Email Address" data-ar="البريد الإلكتروني" />
+        <input type="text" placeholder="Mobile / WhatsApp" data-en="Mobile / WhatsApp" data-ar="الموبايل / واتساب" />
+        <textarea placeholder="Describe your request" data-en="Describe your request" data-ar="اكتب تفاصيل طلبك"></textarea>
+        <button type="submit" data-en="Submit" data-ar="إرسال الطلب">Submit</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Electrica Masr</p>
+    <p>
+      <a href="mailto:sales@electricamasr.com">📧 sales@electricamasr.com</a>
+    </p>
+    <p>
+      <a href="https://wa.me/201070031120" target="_blank">💬 +201070031120</a>
+    </p>
+  </footer>
+</body>
+</html>
