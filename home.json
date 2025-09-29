@@ -1,0 +1,30 @@
+{
+  "site_title_en": "Electrica Masr",
+  "site_title_ar": "إلكتريكا مصر",
+  "hero_subtitle_en": "Reliable electrical solutions – transformers, panels & kiosks",
+  "hero_subtitle_ar": "حلول كهربائية موثوقة – محولات، لوحات، وأكشاك",
+  "about_en": "We provide complete electrical supply solutions in Egypt, including transformers, LV/MV panels, kiosks, and measurement tools.",
+  "about_ar": "نحن نوفر حلول توريدات كهربائية متكاملة في مصر تشمل المحولات ولوحات الجهد المنخفض والمتوسط والأكشاك وأدوات القياس.",
+  "services": [
+    {
+      "title_en": "Transformer Supply",
+      "title_ar": "توريد المحولات",
+      "desc_en": "High-quality LV/MV transformers for industrial and residential projects.",
+      "desc_ar": "محولات جهد منخفض ومتوسط عالية الجودة للمشروعات الصناعية والسكنية.",
+      "icon": "⚡"
+    },
+    {
+      "title_en": "LV & MV Distribution Panels",
+      "title_ar": "لوحات توزيع جهد منخفض ومتوسط",
+      "desc_en": "Custom-designed panels that meet Egyptian and international standards.",
+      "desc_ar": "لوحات مصممة خصيصًا وفقًا للمعايير المصرية والدولية.",
+      "icon": "🧰"
+    }
+  ],
+  "contact": {
+    "email": "sales@electricamasr.com",
+    "phone": "+201070031120",
+    "address_en": "Ismailia, Egypt",
+    "address_ar": "الإسماعيلية، مصر"
+  }
+}
