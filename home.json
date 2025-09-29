@@ -1,0 +1,68 @@
+{
+  "en": {
+    "brand": "Electrica Masr",
+    "heroTitle": "Electrica Masr",
+    "heroSubtitle": "Reliable electrical solutions – transformers, panels & kiosks",
+    "cta": "Get a Quote",
+    "aboutTitle": "About Us",
+    "aboutText": "We design and manufacture electrical solutions tailored for industrial and commercial needs: distribution panels, kiosks, and transformer supply. Quality, safety, and on-time delivery are our priorities.",
+    "servicesTitle": "Our Services",
+    "services": [
+      { "icon": "⚡️", "title": "Transformer Supply" },
+      { "icon": "🔌", "title": "LV & MV Distribution Panels" },
+      { "icon": "🏗️", "title": "Kiosk Substations" },
+      { "icon": "🛠️", "title": "Installation & Commissioning" },
+      { "icon": "📋", "title": "Testing & Certification" },
+      { "icon": "🧰", "title": "Maintenance Contracts" }
+    ],
+    "stats": { "clients": 131, "projects": 320 },
+    "contactTitle": "Request a Quote",
+    "contactPlaceholders": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Mobile / WhatsApp",
+      "type": "Select request type",
+      "message": "Describe your request",
+      "submit": "Submit"
+    },
+    "footer": {
+      "email": "sales@electricamasr.com",
+      "phone": "+201070031120",
+      "whatsapp": "+201070031120",
+      "copyright": "© 2025 Electrica Masr"
+    }
+  },
+  "ar": {
+    "brand": "إلكتريكا مصر",
+    "heroTitle": "إلكتريكا مصر",
+    "heroSubtitle": "حلول كهربائية موثوقة — محولات ولوحات وكبائن",
+    "cta": "احصل على عرض سعر",
+    "aboutTitle": "نبذة عنا",
+    "aboutText": "نصمم ونصنع حلولاً كهربائية تلائم الاحتياجات الصناعية والتجارية: لوحات توزيع، كبائن، وتوريد محولات. الجودة والسلامة والالتزام بالمواعيد أولويتنا.",
+    "servicesTitle": "خدماتنا",
+    "services": [
+      { "icon": "⚡️", "title": "توريد المحولات" },
+      { "icon": "🔌", "title": "لوحات توزيع جهد منخفض ومتوسط" },
+      { "icon": "🏗️", "title": "كبائن محطات فرعية" },
+      { "icon": "🛠️", "title": "التركيب والتشغيل" },
+      { "icon": "📋", "title": "الاختبارات والشهادات" },
+      { "icon": "🧰", "title": "عقود الصيانة" }
+    ],
+    "stats": { "clients": 131, "projects": 320 },
+    "contactTitle": "اطلب عرض سعر",
+    "contactPlaceholders": {
+      "name": "الاسم الكامل",
+      "email": "البريد الإلكتروني",
+      "phone": "الموبايل / واتساب",
+      "type": "اختر نوع الطلب",
+      "message": "اكتب تفاصيل الطلب",
+      "submit": "إرسال الطلب"
+    },
+    "footer": {
+      "email": "sales@electricamasr.com",
+      "phone": "+201070031120",
+      "whatsapp": "+201070031120",
+      "copyright": "Electrica Masr 2025 ©"
+    }
+  }
+}
